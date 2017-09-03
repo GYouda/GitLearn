@@ -1,1 +1,2 @@
-#1 a Git is a great version control system!
+#1 Git is a great distributed version control system!
+#2 add a new line
