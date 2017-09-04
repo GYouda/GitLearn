@@ -1,2 +1,3 @@
-#Git ingore test
-aa.ignore
+# Git ignore test
+testIgnore.txt
+gitignore.txt
